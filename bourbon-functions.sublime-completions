@@ -1,0 +1,28 @@
+{
+  "scope": [
+    "source.sass",
+    "source.scss",
+  ],
+  "completions": [
+    {
+      "trigger": "contrast-switch\tBourbon",
+      "contents": "contrast-switch($1, $2, $3);$4"
+    },
+    {
+      "trigger": "modular-scale\tBourbon",
+      "contents": "modular-scale($1);$2"
+    },
+    {
+      "trigger": "shade\tBourbon",
+      "contents": "shade($1, ${2}%);$3"
+    },
+    {
+      "trigger": "strip-unit\tBourbon",
+      "contents": "strip-unit($1);$2"
+    },
+    {
+      "trigger": "tint\tBourbon",
+      "contents": "tint($1, ${2}%);$3"
+    },
+  ]
+}

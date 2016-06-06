@@ -1,0 +1,88 @@
+{
+  "scope": [
+    "source.sass",
+    "source.scss",
+  ],
+  "completions": [
+    {
+      "trigger": "border-color\tBourbon",
+      "contents": "border-color($1);$2"
+    },
+    {
+      "trigger": "border-top-radius\tBourbon",
+      "contents": "border-top-radius($1);$2"
+    },
+    {
+      "trigger": "border-right-radius\tBourbon",
+      "contents": "border-right-radius($1);$2"
+    },
+    {
+      "trigger": "border-bottom-radius\tBourbon",
+      "contents": "border-bottom-radius($1);$2"
+    },
+    {
+      "trigger": "border-left-radius\tBourbon",
+      "contents": "border-left-radius($1);$2"
+    },
+    {
+      "trigger": "border-style\tBourbon",
+      "contents": "border-style($1);$2"
+    },
+    {
+      "trigger": "border-width\tBourbon",
+      "contents": "border-width($1);$2"
+    },
+    {
+      "trigger": "clearfix\tBourbon",
+      "contents": "clearfix;$2"
+    },
+    {
+      "trigger": "ellipsis\tBourbon",
+      "contents": "ellipsis($1);$2"
+    },
+    {
+      "trigger": "font-face\tBourbon",
+      "contents": "font-face($1,);$2"
+    },
+    {
+      "trigger": "hide-text\tBourbon",
+      "contents": "hide-text($1);$2"
+    },
+    {
+      "trigger": "hide-visually\tBourbon",
+      "contents": "hide-visually($1);$2"
+    },
+    {
+      "trigger": "margin\tBourbon",
+      "contents": "margin($1);$2"
+    },
+    {
+      "trigger": "padding\tBourbon",
+      "contents": "padding($1);$2"
+    },
+    {
+      "trigger": "position\tBourbon",
+      "contents": "position($1);$2"
+    },
+    {
+      "trigger": "prefixer\tBourbon",
+      "contents": "prefixer($1);$2"
+    },
+    {
+      "trigger": "size\tBourbon",
+      "contents": "size($1);$2"
+    },
+    {
+      "trigger": "triangle\tBourbon",
+      "contents": "triangle($1);$2"
+    },
+    {
+      "trigger": "value-prefixer\tBourbon",
+      "contents": "value-prefixer($1);$2"
+    },
+    {
+      "trigger": "word-wrap\tBourbon",
+      "contents": "word-wrap($1);$2"
+    },
+  ]
+}
