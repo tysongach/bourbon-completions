@@ -1,4 +1,4 @@
-# Bourbon Completions
+# bourbon_completions
 
 A [Sublime Text] package that enables autocompletion for
 the [Bourbon Sass library].
